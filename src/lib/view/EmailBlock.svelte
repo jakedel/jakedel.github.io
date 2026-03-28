@@ -23,8 +23,8 @@
 
 <div class="EmailBlock" class:notRoot={!onRoot} class:hovered use:ripple={{ color: '#FFF2', disabled: !hovered }} >
 	<div class="triangle" style:background-color={triangleColor} />
-	<NavButton bind:hovered bind:clicked={drip} large icon={icon_mail} text="thejakedel@gmail.com" href="mailto:thejakedel@gmail.com" />
-	<!-- <a href="mailto:thejakedel@gmail.com">thejakedel@gmail.com</a> -->
+	<NavButton bind:hovered bind:clicked={drip} large icon={icon_mail} text="hello@jakedel.com" href="mailto:hello@jakedel.com" />
+	<!-- <a href="mailto:hello@jakedel.com">hello@jakedel.com</a> -->
 	<div class="drop">
 		<!-- <img class:drip src={drop} height={64} alt="" /> -->
 	</div>
