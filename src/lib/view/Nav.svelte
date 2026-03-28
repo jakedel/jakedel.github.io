@@ -63,7 +63,7 @@
 
 		{#if hasEmail}
 			<div class="email">
-				<Ribbon white={!white} icon={white ? ic_mail_colors : ic_mail} href="mailto:thejakedel@gmail.com">thejakedel@gmail.com</Ribbon>
+				<Ribbon white={!white} icon={white ? ic_mail_colors : ic_mail} href="mailto:hello@jakedel.com">hello@jakedel.com</Ribbon>
 			</div>
 		{/if}
 	</div>
